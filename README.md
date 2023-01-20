@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FixFips.
+- 👋 Hi, I’m @Osama Sharaf.
 - 👀 I’m interested in "Computer Science".
 - 🌱 I’m currently learning "Java Script, Java".
 - 📫 How to reach me: Discord - FixFips#2195
